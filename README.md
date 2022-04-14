@@ -82,3 +82,6 @@ In addition, acquire the car and text features used in short-distance modeling, 
 base run/submit.py
 ```
 
+## Others
+
+If you have any questions, please leave an issue or contact us: hbchen121@gmail.com or cy.zhao15@gmail.com
