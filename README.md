@@ -98,3 +98,7 @@ If you have any questions, please leave an issue or contact us: hbchen121@gmail.
     pages     = {3226-3233}
 }
 ```
+
+## Acknowledgement
+
+Our approach partially borrows from the [AIC2021-T5-CLV](https://github.com/ShuaiBai623/AIC2021-T5-CLV). Thanks for their excellent work!
