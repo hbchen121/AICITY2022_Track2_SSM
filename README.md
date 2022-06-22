@@ -1,6 +1,8 @@
 # Symmetric Network with Spatial Relationship Modeling for Natural Language-based Vehicle Retrieval
 
-The 4nd place solution for AICity2022 Challenge track2: Natural Language-Based Vehicle Retrieval.
+The 1st Place solution for AICity2022 Challenge track2: Natural Language-Based Vehicle Retrieval.
+
+\[[paper](https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_Symmetric_Network_With_Spatial_Relationship_Modeling_for_Natural_Language-Based_Vehicle_CVPRW_2022_paper.pdf)\] \[[slides]()\] \[[arxiv]()\]
 
 ![framework](imgs/framework.png)
 
@@ -85,3 +87,14 @@ base run/submit.py
 ## Others
 
 If you have any questions, please leave an issue or contact us: hbchen121@gmail.com or cy.zhao15@gmail.com
+
+```
+@InProceedings{Zhao_2022_CVPR,
+    author    = {Zhao, Chuyang and Chen, Haobo and Zhang, Wenyuan and Chen, Junru and Zhang, Sipeng and Li, Yadong and Li, Boxun},
+    title     = {Symmetric Network With Spatial Relationship Modeling for Natural Language-Based Vehicle Retrieval},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {3226-3233}
+}
+```
