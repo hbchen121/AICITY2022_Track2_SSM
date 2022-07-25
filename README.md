@@ -2,7 +2,7 @@
 
 🏆 The 1st Place Solution for AICity2022 Challenge Track2: Natural Language-Based Vehicle Retrieval.
 
-\[[official results](https://www.aicitychallenge.org/2022-challenge-winners/)\] \[[paper](https://arxiv.org/pdf/2206.10879.pdf))\] \[[slides](https://drive.google.com/file/d/1UssQ81BzEUI_OGB_YmiQmk8Rl-0xtzO4/view?usp=sharing)\] \[[arxiv](https://arxiv.org/abs/2206.10879)\]
+\[[official results](https://www.aicitychallenge.org/2022-challenge-winners/)\] \[[paper](https://arxiv.org/pdf/2206.10879.pdf)\] \[[slides](https://drive.google.com/file/d/1UssQ81BzEUI_OGB_YmiQmk8Rl-0xtzO4/view?usp=sharing)\] \[[arxiv](https://arxiv.org/abs/2206.10879)\]
 
 ![framework](imgs/framework.png)
 
