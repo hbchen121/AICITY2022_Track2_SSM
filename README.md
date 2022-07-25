@@ -2,7 +2,7 @@
 
 🏆 The 1st Place Solution for AICity2022 Challenge Track2: Natural Language-Based Vehicle Retrieval.
 
-\[[official results](https://www.aicitychallenge.org/2022-challenge-winners/)\] \[[paper]([https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_Symmetric_Network_With_Spatial_Relationship_Modeling_for_Natural_Language-Based_Vehicle_CVPRW_2022_paper.pdf](https://arxiv.org/pdf/2206.10879.pdf))\] \[[slides](https://drive.google.com/file/d/1UssQ81BzEUI_OGB_YmiQmk8Rl-0xtzO4/view?usp=sharing)\] \[[arxiv](https://arxiv.org/abs/2206.10879)\]
+\[[official results](https://www.aicitychallenge.org/2022-challenge-winners/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Zhao_Symmetric_Network_With_Spatial_Relationship_Modeling_for_Natural_Language-Based_Vehicle_CVPRW_2022_paper.pdf](https://arxiv.org/pdf/2206.10879.pdf))\] \[[slides](https://drive.google.com/file/d/1UssQ81BzEUI_OGB_YmiQmk8Rl-0xtzO4/view?usp=sharing)\] \[[arxiv](https://arxiv.org/abs/2206.10879)\]
 
 ![framework](imgs/framework.png)
 
